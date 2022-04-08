@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>			"D:\RevitApi\RevitAPITraining_Hole.dll"		</Assembly>
+		<AddInId>16178613-A998-4937-B476-4ED63B24826E
+        </AddInId>
+		<FullClassName>		RevitAPITraining_Hole.Main		</FullClassName>
+		<VendorId>			ADSK		</VendorId>
+		<Text>	отверстия	</Text>
+	</AddIn>
+</RevitAddIns>
